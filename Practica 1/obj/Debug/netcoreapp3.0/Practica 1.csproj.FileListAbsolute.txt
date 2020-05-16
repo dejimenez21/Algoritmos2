@@ -1,0 +1,11 @@
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.exe
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.deps.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.runtimeconfig.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.runtimeconfig.dev.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\bin\Debug\netcoreapp3.0\Practica 1.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\obj\Debug\netcoreapp3.0\Practica 1.csprojAssemblyReference.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\obj\Debug\netcoreapp3.0\Practica 1.AssemblyInfoInputs.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\obj\Debug\netcoreapp3.0\Practica 1.AssemblyInfo.cs
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\obj\Debug\netcoreapp3.0\Practica 1.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Lab. Estructura de Datos 2\Semana 1\Practica 1\obj\Debug\netcoreapp3.0\Practica 1.pdb
