@@ -6,11 +6,12 @@ namespace Practica_1
     public class TuercasYTornillos
     {
         public List<Pieza> piezas { get; private set; }
-        public IDictionary<Pieza, Pieza> Pares { get; set; }
+        public Dictionary<Pieza, Pieza> Pares { get; set; }
 
         public TuercasYTornillos(List<Pieza> piezas)
         {
             this.piezas = piezas;
+            Pares =  new Dictionary<Pieza, Pieza>();
         }
 
         public void Start()
@@ -19,6 +20,7 @@ namespace Practica_1
             {
                 Pares.Add(tuerca, piezas.Find(x=>x.tipo==Tipo.Tornillo && x.tamaño == tuerca.tamaño));
             }
+            Print();
         }
 
         public void Print()

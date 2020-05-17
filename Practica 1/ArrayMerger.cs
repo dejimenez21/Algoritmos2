@@ -31,9 +31,9 @@ namespace Practica_1
             for (int k = 0; k < length1 + length2; k++)
             {
                 if(i == length1)
-                    result[k] = Arr2[j];
+                    result[k] = Arr2[j++];
                 else if(j == length2)
-                    result[k] = Arr1[i];
+                    result[k] = Arr1[i++];
                 else
                     result[k] = Arr1[i] < Arr2[j] ? Arr1[i++] : Arr2[j++];
             }

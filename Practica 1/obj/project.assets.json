@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Semana 1\\Practica 1\\Practica 1.csproj",
+      "projectUniqueName": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Practicas\\Algoritmos2\\Practica 1\\Practica 1.csproj",
       "projectName": "Practica 1",
-      "projectPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Semana 1\\Practica 1\\Practica 1.csproj",
+      "projectPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Practicas\\Algoritmos2\\Practica 1\\Practica 1.csproj",
       "packagesPath": "C:\\Users\\dejim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Semana 1\\Practica 1\\obj\\",
+      "outputPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Lab. Estructura de Datos 2\\Practicas\\Algoritmos2\\Practica 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
