@@ -9,7 +9,7 @@ namespace PracticaLab
         public void Ejercicio1() 
         {
             int parN1 = 0, parN2 = 0, resultado = 1000;
-            int[] nums = { 21, 16, 40, 59, 19 };
+            int[] nums = { 21, 40, 59, 19, 31 };
 
             // Si el arreglo tiene un solo numero o ninguno debe retornar un -1
             if (nums.Length <= 1)
