@@ -29,12 +29,7 @@ namespace PracticaLab
                         {
                             par1 = nums[i];
                             par2 = nums[j];
-                            result = nums[i] - nums[j];
-                            // Se multiplica el resultado * -1 para que se represente la diferencia en valor positivo
-                            if (result < 0)
-                            {
-                                result *= -1;
-                            }
+                            result = Math.Abs(nums[i] - nums[j]);
                         }
                     }
                 }
